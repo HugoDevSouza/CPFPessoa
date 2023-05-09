@@ -1,2 +1,6 @@
 # Pessoa
-Criação de um programa que valida nome, cpf e idade. Feito em Java, usando Maven para build da aplicação e JUnit para criação de testes unitários.
+
+- Objetivo: Criação de um programa que valida nome, cpf e idadeo.
+- Liguagem Utilizada: Java
+- Framework de teste: JUnit
+
