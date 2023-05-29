@@ -1,6 +1,7 @@
-# Pessoa
+# Projeto exerc VII
 
-- Objetivo: Criação de um programa que valida Nome, CPF e Idade.
-- Liguagem Utilizada: Java
-- Framework de teste: JUnit
+- Programa em java valide CPF
+- Programa em java media de 2 valores
+- Programa em java acrescimo 10%
+- Programa em java faça leitura em Fahrenheit e convera para Celcius.
 
